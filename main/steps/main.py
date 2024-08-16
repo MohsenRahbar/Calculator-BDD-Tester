@@ -20,9 +20,11 @@ def perform_operations(context):
     """
         to give first number and second number
     """
+    # Check addition :
+    context.addition = addition.calculate_addition(context.first_number, context.second_number)
 
-    context.addition_result = addition.calculate_addition(context.first_number, context.second_number)
-    context.subtraction_result = subtraction.calculate_subtraction(context.first_number, context.second_number)
+    # Check subtraction :
+    context.subtraction = subtraction.calculate_subtraction(context.first_number, context.second_number)
 
 # Third step :
 @then(u'the results should be correct')
@@ -32,5 +34,5 @@ def check_results(context):
         check subtraction
     """
 
-    assert context.addition_result == 14
-    assert context.subtraction_result == 6
+    assert context.addition == 14
+    assert context.subtraction == 6
