@@ -1,7 +1,7 @@
 """
     Subtract two numbers
 """
-from behave import Given,When,Then
+from behave import Given , When , Then
 
 
 # First step :

@@ -2,7 +2,7 @@
     Check all functionalities all at once
 """
 from behave import given, when, then
-import addition,subtraction
+import addition , subtraction
 
 # First step :
 @given(u'I have two numbers')
