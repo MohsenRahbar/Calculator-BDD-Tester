@@ -22,12 +22,12 @@
   </ol>
 </details>
 
-#Math operations test : 
+# Math operations test : 
 
 calculator for addition and subtraction
 
 
-##Prerequisites :
+## Prerequisites :
  
 Prerequisites To run this project, you need to install Python.
 
