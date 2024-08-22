@@ -6,7 +6,7 @@
       <a href="#About-the-project">About The Project</a>
       <ul>
         <li>
-      <a href="#audience">Audience</a>
+      <a href="#Audience">Audience</a>
       </ul>
       </li>
     </li>
@@ -14,10 +14,10 @@
       <a href="#Prerequisites">Prerequisites</a>
       <ul>
         <li>
-        <a href="#implementation">Implementation</a>
+        <a href="#Implementation">Implementation</a>
         </li>
         <li>
-        <a href="#requirements">Requirements</a>
+        <a href="#Requirements">Requirements</a>
         </li>
         </ul>
   </ol>
