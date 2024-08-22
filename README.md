@@ -3,7 +3,7 @@
   <summary><h3>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#About-the-project">About The Project</a>
       <ul>
         <li>
       <a href="#audience">Audience</a>
@@ -11,7 +11,7 @@
       </li>
     </li>
     <li>
-      <a href="#prerequisites">Prerequisites</a>
+      <a href="#Prerequisites">Prerequisites</a>
       <ul>
         <li>
         <a href="#implementation">Implementation</a>
