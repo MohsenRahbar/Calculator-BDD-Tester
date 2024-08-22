@@ -10,7 +10,7 @@
       </li>
     </li>
     <li>
-      <a href="#Prerequisites">prerequisites</a>
+      <a href="#prerequisites">prerequisites</a>
       <ul>
         <li>
         <a href="#Implementation">Implementation</a>
