@@ -2,15 +2,15 @@
   <summary><h3>Table of Contents</summary>
   <ol>
     <li>
-      <a href="# Math-operations-test">About The Project</a>
+      <a href="#Math-operations-test">About The Project</a>
       <ul>
       <li>
-      <a href="# Audience">Audience</a>
+      <a href="#Audience">Audience</a>
       </ul>
       </li>
     </li>
     <li>
-      <a href="# prerequisites">prerequisites</a>
+      <a href="#prerequisites">prerequisites</a>
       <ul>
         <li>
         <a href="#Implementation">Implementation</a>
