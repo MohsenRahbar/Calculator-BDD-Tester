@@ -3,7 +3,7 @@
   <summary><h3>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Math-operations-test">About The Project</a>
+      <a href="#About-The-Project">About The Project</a>
       <ul>
       <li>
       <a href="#Audience">Audience</a>
@@ -23,8 +23,8 @@
   </ol>
 </details>
 
-# Math operations test : 
-
+#About The Project : 
+**Math operations test**
 calculator for addition and subtraction
 
 
