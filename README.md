@@ -23,7 +23,8 @@
   </ol>
 </details>
 
-#About The Project : 
+# About The Project : 
+
 **Math operations test**
 calculator for addition and subtraction
 
