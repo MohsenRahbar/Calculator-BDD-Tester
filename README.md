@@ -32,13 +32,13 @@ calculator for addition and subtraction
 
 ## Prerequisites :
  
-Prerequisites To run this project, you need to install Python.
+Prerequisites to run this project, you need to install Python.
 
 **version python** 3.11.4
 
 ## Implementation :
 
-Implementation  To use this project, you need the behave library
+Implementation  to use this project, you need the behave library
 
 ```bash
 pip install behave
@@ -52,7 +52,7 @@ for example :
 python3 main.py
 ```
 
-**Runing for command port**</br>
+**Runing for command prompt**</br>
 for example :
 ```bash
 pyhton main.py
@@ -60,7 +60,7 @@ pyhton main.py
 
 ## Requirements :
 
-you need to install these packags
+You need to install these packags.
 
 Requirements:
 ```bash
@@ -70,4 +70,4 @@ pip install -r requirements.txt
 
 ## Audience :
 
-The audience of this content : QA programer
+The audience of this content: QA programer
